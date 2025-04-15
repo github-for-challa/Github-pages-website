@@ -30,7 +30,7 @@ This repository hosts a simple static website deployed using **GitHub Pages**. T
 - **GitHub Pages** for hosting
 - **HTML5 UP** templates for the website structure
 
-## my static website buid wiht github pages / Live Website Link 
+## Below is my Static website link build with github pages / Live Website Link 
 https://github-for-challa.github.io/Github-pages-website/
 
 ---

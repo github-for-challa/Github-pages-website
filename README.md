@@ -19,8 +19,9 @@ This repository hosts a simple static website deployed using **GitHub Pages**. T
 3. Click **Save** to enable GitHub Pages.
 
 ### Step 4: Access the Live Website
-- After enabling GitHub Pages, you will receive a link to your live website. In this case, it is available at:
-  [https://github-for-challa.github.io/Github-pages-website/](https://github-for-challa.github.io/Github-pages-website/)
+- After enabling GitHub Pages, you will receive a link to your live website. In this case, it is available at: 
+  [https://github-for-challa.github.io/Github-pages-website/]
+  (https://github-for-challa.github.io/Github-pages-website/)
 
 ### Step 5: Customization (Optional)
 - You can further customize the website by adding a `style.css` file and linking it in the HTML files for custom styling.
@@ -29,7 +30,7 @@ This repository hosts a simple static website deployed using **GitHub Pages**. T
 - **GitHub Pages** for hosting
 - **HTML5 UP** templates for the website structure
 
-## Live Website Link
+## my static website buid wiht github pages / Live Website Link 
 https://github-for-challa.github.io/Github-pages-website/
 
 ---

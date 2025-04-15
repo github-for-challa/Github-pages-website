@@ -1,0 +1,5 @@
+downloaded files html files from html5 up
+after file upload to git hub repo - settings - pages - Source; git hub actions - static html;configure - save/commit  static.yml - repo - actions - All workflows: check/marked/ready (Deploy static content to Pages #1: Commit pushed by github-for-challa) - once ready marked - settings - pages - in git hub pages u can see that url like "Your site is live at url" / ready with link click on that link to see the ur GitHub pages static website 
+
+
+https://github-for-challa.github.io/Github-pages-website/
